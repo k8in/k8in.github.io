@@ -1,6 +1,6 @@
 baseURL = 'https://k8in.github.io/'
 languageCode = 'en-us'
-title = 'Kyungbin'
+title = 'K8in'
 theme = 'maverick'
 
 [permalinks]
@@ -11,6 +11,10 @@ theme = 'maverick'
   description = "A minimal hugo theme focus on content"
   author = 'Park Kyung Bin'
   items = 10
+
+  [params.contact]
+    email = 'kyung8in@gmail.com'
+    phone = '+1 202-555-1212'
 
   [params.comments]
     enabled = false
